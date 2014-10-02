@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# thursdayagain1
+#
+
+projectname: thursdayagain1
+vendorid: com.coronia.example
+mainmodule: com.coronia.example.thursdayagain1
